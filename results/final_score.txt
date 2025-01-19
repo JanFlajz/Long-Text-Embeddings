@@ -1,0 +1,6 @@
+\begin{tabular}{l||c}
+model & f1 score \\
+\hline
+LaBSE & 0.65 \\
+mUSE & 0.60 \\
+\end{tabular}

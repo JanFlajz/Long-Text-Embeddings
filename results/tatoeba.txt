@@ -1,0 +1,7 @@
+\begin{tabular}{l||c|c|c|c}
+ & fr & ru & de & cs \\
+\hline
+microsoft/infoxlm-base & 0.93 & 0.94 & 0.93 & 0.92 \\
+LaBSE & 0.94 & 0.96 & 0.95 & 0.95 \\
+mUSE & 0.94 & 0.96 & 0.96 & 0.35 \\
+\end{tabular}
