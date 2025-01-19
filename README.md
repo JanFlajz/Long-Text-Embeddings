@@ -1,5 +1,5 @@
 # MVI SP
-author: flajzjan@cvut.cz
+author: honza.flajzik@gmail.com
 # Understanding of long texts
 The aim of this semestral work is to research several existing libraries for generating long text embeddings.
 The libraries are then compared using availible benchmark datasets. 
